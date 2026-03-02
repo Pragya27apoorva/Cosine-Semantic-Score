@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  padding: 40px;
+  font-family: Arial;
+}
+
+textarea {
+  width: 60%;
+  padding: 10px;
+  margin: 15px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #2c7be5;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

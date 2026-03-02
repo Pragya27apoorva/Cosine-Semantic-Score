@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "text": "Online shopping platform recommending smartphones based on user preferences"
+  },
+  {
+    "id": 2,
+    "text": "Medical diagnosis system predicting diseases from symptoms"
+  },
+  {
+    "id": 3,
+    "text": "University admission chatbot answering student queries"
+  },
+  {
+    "id": 4,
+    "text": "Bank fraud detection using transaction patterns"
+  },
+  {
+    "id": 5,
+    "text": "Movie recommendation system based on viewing history"
+  },
+  {
+    "id": 6,
+    "text": "Legal advisor chatbot providing guidance on property disputes"
+  },
+  {
+    "id": 7,
+    "text": "Face recognition security system for offices"
+  },
+  {
+    "id": 8,
+    "text": "Sentiment analysis of customer product reviews"
+  }
+]
